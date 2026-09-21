@@ -1,0 +1,14 @@
+%%[ ProductName: Distiller ]%%
+NeueHaasGroteskTextPro-Bold not found, using Courier.
+Spectral-Medium not found, using Courier.
+%%[ Error: invalidfont; OffendingCommand: xshow ]%%
+
+Stack:
+[79 109 108 81 50 153 81 108 87 87 174 99 118 118 50 64 87 50 99 0]
+(	
+
+	)
+
+
+%%[ Flushing: rest of job (to end-of-file) will be ignored ]%%
+%%[ Warning: PostScript error. No PDF file produced. ] %%
